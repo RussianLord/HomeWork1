@@ -8,11 +8,11 @@ Console.WriteLine("Введите ТРЕТЬЕ число...");
 int C = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Третье число = " + C);
 
-if(A>B)
+if(A>B & A>C)
 {
     Console.WriteLine($"Число {A} самое большое число из списка");
 }
-else if(C>B)
+else if(C>B & C>A)
 {
     Console.WriteLine($"Число {C} самое большое число из списка");
 }
