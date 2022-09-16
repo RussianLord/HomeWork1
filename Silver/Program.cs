@@ -11,7 +11,7 @@ else if (A % 2 == 0)
 {
     Console.WriteLine($"Число {A} является чётным.");
 }
-else
-{
-    Console.WriteLine($"Число {A} не является чётным.");
-}
+    else
+    {
+        Console.WriteLine($"Число {A} не является чётным.");
+    }

@@ -8,13 +8,13 @@ Console.WriteLine("Число В = " + B);
 
 if(A == B)
 {
-Console.WriteLine($"Число A = {A} и число B = {B} равны");
+    Console.WriteLine($"Число A = {A} и число B = {B} равны");
 }
 else if(A>B)
 {
     Console.WriteLine($"Число A = {A} больше числа B = {B}");
 }
-else
-{
-    Console.WriteLine($"Число B = {B} больше числа A = {A}");
-}
+    else
+    {   
+        Console.WriteLine($"Число B = {B} больше числа A = {A}");
+    }
