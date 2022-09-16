@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrey\\Desktop\\Обучение\\Программирование обучение\\Домашка 1\\HomeWork1\\Three\\Three.csproj": {}
+    "C:\\Users\\Andrey\\Desktop\\Обучение\\Программирование обучение\\Домашка 1\\HomeWork1\\Silver\\Three.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrey\\Desktop\\Обучение\\Программирование обучение\\Домашка 1\\HomeWork1\\Three\\Three.csproj": {
+    "C:\\Users\\Andrey\\Desktop\\Обучение\\Программирование обучение\\Домашка 1\\HomeWork1\\Silver\\Three.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrey\\Desktop\\Обучение\\Программирование обучение\\Домашка 1\\HomeWork1\\Three\\Three.csproj",
+        "projectUniqueName": "C:\\Users\\Andrey\\Desktop\\Обучение\\Программирование обучение\\Домашка 1\\HomeWork1\\Silver\\Three.csproj",
         "projectName": "Three",
-        "projectPath": "C:\\Users\\Andrey\\Desktop\\Обучение\\Программирование обучение\\Домашка 1\\HomeWork1\\Three\\Three.csproj",
+        "projectPath": "C:\\Users\\Andrey\\Desktop\\Обучение\\Программирование обучение\\Домашка 1\\HomeWork1\\Silver\\Three.csproj",
         "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrey\\Desktop\\Обучение\\Программирование обучение\\Домашка 1\\HomeWork1\\Three\\obj\\",
+        "outputPath": "C:\\Users\\Andrey\\Desktop\\Обучение\\Программирование обучение\\Домашка 1\\HomeWork1\\Silver\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrey\\AppData\\Roaming\\NuGet\\NuGet.Config"
