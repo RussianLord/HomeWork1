@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrey\\Desktop\\Обучение\\Программирование обучение\\Домашка 1\\HomeWork1\\HomeWork1.csproj",
+      "projectUniqueName": "C:\\Users\\Andrey\\Desktop\\Обучение\\Программирование обучение\\Домашка 1\\HomeWork1\\First\\HomeWork1.csproj",
       "projectName": "HomeWork1",
-      "projectPath": "C:\\Users\\Andrey\\Desktop\\Обучение\\Программирование обучение\\Домашка 1\\HomeWork1\\HomeWork1.csproj",
+      "projectPath": "C:\\Users\\Andrey\\Desktop\\Обучение\\Программирование обучение\\Домашка 1\\HomeWork1\\First\\HomeWork1.csproj",
       "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrey\\Desktop\\Обучение\\Программирование обучение\\Домашка 1\\HomeWork1\\obj\\",
+      "outputPath": "C:\\Users\\Andrey\\Desktop\\Обучение\\Программирование обучение\\Домашка 1\\HomeWork1\\First\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andrey\\AppData\\Roaming\\NuGet\\NuGet.Config"
