@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Введите ПЕРВОЕ число...");
+﻿Console.WriteLine("Программа показывает наибольшее число из введённых");
+Console.WriteLine("Введите ПЕРВОЕ число...");
 int A = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Число А = " + A);
 Console.WriteLine("Введите ВТОРОЕ число...");
