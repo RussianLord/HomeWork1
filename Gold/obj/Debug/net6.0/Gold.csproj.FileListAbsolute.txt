@@ -1,0 +1,15 @@
+C:\Users\Andrey\Desktop\Обучение\Программирование обучение\Домашка 1\HomeWork1\Gold\obj\Debug\net6.0\Gold.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\Обучение\Программирование обучение\Домашка 1\HomeWork1\Gold\obj\Debug\net6.0\Gold.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\Desktop\Обучение\Программирование обучение\Домашка 1\HomeWork1\Gold\obj\Debug\net6.0\Gold.AssemblyInfoInputs.cache
+C:\Users\Andrey\Desktop\Обучение\Программирование обучение\Домашка 1\HomeWork1\Gold\obj\Debug\net6.0\Gold.AssemblyInfo.cs
+C:\Users\Andrey\Desktop\Обучение\Программирование обучение\Домашка 1\HomeWork1\Gold\obj\Debug\net6.0\Gold.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Обучение\Программирование обучение\Домашка 1\HomeWork1\Gold\bin\Debug\net6.0\Gold.exe
+C:\Users\Andrey\Desktop\Обучение\Программирование обучение\Домашка 1\HomeWork1\Gold\bin\Debug\net6.0\Gold.deps.json
+C:\Users\Andrey\Desktop\Обучение\Программирование обучение\Домашка 1\HomeWork1\Gold\bin\Debug\net6.0\Gold.runtimeconfig.json
+C:\Users\Andrey\Desktop\Обучение\Программирование обучение\Домашка 1\HomeWork1\Gold\bin\Debug\net6.0\Gold.dll
+C:\Users\Andrey\Desktop\Обучение\Программирование обучение\Домашка 1\HomeWork1\Gold\bin\Debug\net6.0\Gold.pdb
+C:\Users\Andrey\Desktop\Обучение\Программирование обучение\Домашка 1\HomeWork1\Gold\obj\Debug\net6.0\Gold.dll
+C:\Users\Andrey\Desktop\Обучение\Программирование обучение\Домашка 1\HomeWork1\Gold\obj\Debug\net6.0\refint\Gold.dll
+C:\Users\Andrey\Desktop\Обучение\Программирование обучение\Домашка 1\HomeWork1\Gold\obj\Debug\net6.0\Gold.pdb
+C:\Users\Andrey\Desktop\Обучение\Программирование обучение\Домашка 1\HomeWork1\Gold\obj\Debug\net6.0\Gold.genruntimeconfig.cache
+C:\Users\Andrey\Desktop\Обучение\Программирование обучение\Домашка 1\HomeWork1\Gold\obj\Debug\net6.0\ref\Gold.dll
