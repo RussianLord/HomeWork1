@@ -1,7 +1,6 @@
 ﻿Console.WriteLine("Программа показывает является ли введённое число чётным");
-Console.WriteLine("Ввидете число...");
+Console.WriteLine("Введите число...");
 int A = Convert.ToInt32(Console.ReadLine());
-int B = A % 2;
 
 if (A == 0)
 {
